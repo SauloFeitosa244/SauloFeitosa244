@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, me chamo Saulo Feitosa e atualmente tenho 19 anos. Estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas no IFBA. Estou a procura estágios na área de programação visando adiquirir mais experiência.
+## Bem-vindo(a) ao meu perfil, me chamo Saulo Feitosa e atualmente tenho 19 anos. Estou cursando Análise e Desenvolvimento de Sistemas no IFBA. Estou a procura estágios na área de programação visando adiquirir mais experiência.
 
  <div>
    <a href="https://github.com/SauloFeitosa244">
