@@ -7,12 +7,12 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante do **3º semestre de Análise e Desenvolvimento de Sistemas**, com interesse em desenvolvimento de software e aprendizado contínuo.
+🎓 Estudante do **4º semestre de Análise e Desenvolvimento de Sistemas**, com interesse em desenvolvimento de software e aprendizado contínuo.
 
 💻 Possuo conhecimentos básicos em:
 - Programação Orientada a Objetos (POO)
 - Linguagem C
-- SQL
+- Postgree SQL
 - Python
 
 🎯 Busco uma oportunidade para aplicar e desenvolver minhas habilidades técnicas, contribuindo com dedicação, proatividade e vontade de aprender.
@@ -22,7 +22,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,postgresql,git,github,vscode" />
 </p>
 
 ---
@@ -63,9 +63,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=SauloFeitosa244&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloFeitosa244&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SauloFeitosa244&layout=compact&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=SauloFeitosa244&layout=compact&langs_count=4&theme=blue_navy)
 
 </div>
 
